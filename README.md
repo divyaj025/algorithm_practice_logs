@@ -26,12 +26,14 @@ A collection of LeetCode questions
 | [0040-combination-sum-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
