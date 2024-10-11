@@ -14,6 +14,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
@@ -39,4 +41,8 @@ A collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
