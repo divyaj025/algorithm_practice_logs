@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
