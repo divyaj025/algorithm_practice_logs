@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
