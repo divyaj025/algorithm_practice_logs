@@ -51,6 +51,7 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bit Manipulation
 |  |
@@ -70,12 +71,14 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,11 +87,13 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
