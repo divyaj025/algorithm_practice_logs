@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [0051-n-queens](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0216-combination-sum-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
@@ -65,17 +66,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
+| [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
@@ -83,6 +87,7 @@ A collection of LeetCode questions
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
