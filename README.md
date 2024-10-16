@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -142,8 +144,13 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
