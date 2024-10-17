@@ -91,6 +91,7 @@ A collection of LeetCode questions
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
