@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0198-house-robber) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
