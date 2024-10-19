@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -26,6 +27,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
