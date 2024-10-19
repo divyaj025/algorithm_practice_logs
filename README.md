@@ -12,6 +12,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
