@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
