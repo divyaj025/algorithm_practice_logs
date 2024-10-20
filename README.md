@@ -13,6 +13,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
+| [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
