@@ -13,6 +13,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0064-minimum-path-sum) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
