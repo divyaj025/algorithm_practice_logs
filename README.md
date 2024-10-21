@@ -21,6 +21,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
