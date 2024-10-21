@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions
 | [0518-coin-change-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
