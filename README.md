@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [1250-longest-common-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions
 | [0216-combination-sum-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0494-target-sum) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Matrix
 |  |
 | ------- |
