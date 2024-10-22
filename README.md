@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0518-coin-change-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
@@ -259,4 +261,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
