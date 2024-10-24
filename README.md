@@ -162,6 +162,7 @@ A collection of LeetCode questions
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
@@ -268,11 +269,13 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Indexed Tree
