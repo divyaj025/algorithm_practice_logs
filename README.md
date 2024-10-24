@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | [0120-triangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0213-house-robber-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions
 | ------- |
 | [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
