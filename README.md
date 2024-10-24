@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0115-distinct-subsequences](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions
 | [0120-triangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0213-house-robber-ii) |
