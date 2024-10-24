@@ -177,6 +177,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2090-number-of-ways-to-arrive-at-destination) |
