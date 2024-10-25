@@ -36,6 +36,7 @@ A collection of LeetCode questions
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1170-shortest-common-supersequence) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
