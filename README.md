@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
