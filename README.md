@@ -49,6 +49,7 @@ A collection of LeetCode questions
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2032-largest-odd-number-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -299,6 +300,7 @@ A collection of LeetCode questions
 | [0085-maximal-rectangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
