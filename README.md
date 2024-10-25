@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [0205-isomorphic-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions
 | ------- |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -338,4 +342,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
