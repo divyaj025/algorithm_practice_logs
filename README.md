@@ -22,6 +22,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
