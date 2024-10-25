@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions
 | [1121-partition-array-for-maximum-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -326,4 +329,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
