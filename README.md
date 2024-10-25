@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0368-largest-divisible-subset) |
+| [2032-largest-odd-number-in-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2032-largest-odd-number-in-string) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions
 | [0135-candy](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
+| [2032-largest-odd-number-in-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/divyaj025/algorithm_practice_logs/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
