@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0022-generate-parentheses) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
