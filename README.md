@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1170-shortest-common-supersequence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0085-maximal-rectangle) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
