@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0132-palindrome-partitioning-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
@@ -362,4 +364,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
