@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [0214-shortest-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0282-expression-add-operators) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0583-delete-operation-for-two-strings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
