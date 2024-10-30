@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [1304-longest-happy-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -391,6 +393,7 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
