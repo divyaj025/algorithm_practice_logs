@@ -152,6 +152,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
