@@ -130,6 +130,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0120-triangle) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
