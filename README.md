@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
