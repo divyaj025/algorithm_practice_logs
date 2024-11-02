@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1073-number-of-enclaves) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
