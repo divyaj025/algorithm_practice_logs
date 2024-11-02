@@ -121,6 +121,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0051-n-queens) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
