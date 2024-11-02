@@ -33,6 +33,7 @@ A collection of LeetCode questions
 | [0038-count-and-say](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0131-palindrome-partitioning) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0242-valid-anagram) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1034-subarrays-with-k-different-integers) |
