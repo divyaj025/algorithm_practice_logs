@@ -181,6 +181,7 @@ A collection of LeetCode questions
 | [1646-kth-missing-positive-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2047-find-a-peak-element-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bit Manipulation
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions
 | [1171-shortest-path-in-binary-matrix](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2047-find-a-peak-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1753-path-with-minimum-effort) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2047-find-a-peak-element-ii) |
 ## Shortest Path
 |  |
 | ------- |
