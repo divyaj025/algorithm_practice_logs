@@ -122,6 +122,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0035-search-insert-position) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0035-search-insert-position) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1370-count-number-of-nice-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
