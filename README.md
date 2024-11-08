@@ -238,6 +238,7 @@ A collection of LeetCode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0801-is-graph-bipartite) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2677-cousins-in-binary-tree-ii) |
