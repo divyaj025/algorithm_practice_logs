@@ -250,6 +250,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0207-course-schedule) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
