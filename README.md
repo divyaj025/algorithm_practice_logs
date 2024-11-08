@@ -231,6 +231,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0207-course-schedule) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaj025/algorithm_practice_logs/tree/master/1078-remove-outermost-parentheses) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/divyaj025/algorithm_practice_logs/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/divyaj025/algorithm_practice_logs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
